@@ -1,0 +1,131 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+header
+{
+    background-color: white;
+}
+
+.navbar-brand
+{
+    margin-left: 53px;
+    margin-bottom:4px;
+    
+   
+  
+}
+.collapse navbar-collapse
+{
+    text-align: center;
+}
+.nav-item
+{
+    font-size: 13px;
+    color: black;
+    margin-left: 0px;
+    margin-right: 23px;
+}
+.navbar-toggler
+{
+   outline: none !important;
+   padding: 0 !important;
+   border-color: white;
+}
+
+.navbar-toggler img
+{
+    width: 30px;
+    opacity: 1;
+    transition: 0s;
+}
+
+.card
+{
+ border-color: white;
+ position: relative;
+ display: flex;
+ flex-direction: column;
+ flex: 1 1 auto;
+ min-width: 1px;
+ word-wrap: break-word;
+ background-clip: border-box;
+
+}
+
+.container
+{
+
+display: block;
+
+
+
+}
+
+.badge
+
+{
+    background-color:#ffb900;
+    color: black;
+}
+.row
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+.container-Xbox
+{
+display: block;
+width: 100%;
+}
+.row-xbox
+{
+    border: 2px solid white;
+    width: 100%;
+    height:100%;
+    background-image: url("/images2/xbox/series.webp");
+   
+}
+.col-1-xbox
+{
+ border: 0px solid white;
+}
+.img-text
+{
+    padding-top: 10px;
+}
+.Social
+{
+    display: flex;
+}
+footer{
+    background: #f2f2f2;
+}
+
+.row-footer
+{
+    border: 2px solid black;
+}
+.col-footer
+{
+    border:2px solid yellow
+}
+.footer-items
+{
+  text-decoration: none;
+  
+}
+.items-1{
+    color: #616161;
+    text-decoration: none;
+    list-style: none;
+    font-size: 11px;
+    line-height: 16px;
+}
+.footer-inner-item
+{
+    color: #616161;
+    text-decoration: none;
+}
+
